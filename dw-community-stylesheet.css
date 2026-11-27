@@ -117,7 +117,7 @@ body {
     width: 150px;
     height: 150px;
     border: 2px solid black;
-    background-image: url(_.frag.png);
+    background-image: url(frag.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
