@@ -16,6 +16,8 @@ body {
 #timeyfrname {
     border: 1px solid black;
     background-color: green;
+    padding-left: 2px;
+    padding-right: 2px;
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
@@ -36,6 +38,8 @@ body {
 #peppymintmagicname {
     border: 1px solid black;
     background-color: brown;
+    padding-left: 2px;
+    padding-right: 2px;
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
@@ -56,6 +60,8 @@ body {
 #clownsarelife67name {
     border: 1px solid black;
     background-color: coral;
+    padding-left: 2px;
+    padding-right: 2px;
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
@@ -76,6 +82,8 @@ body {
 #zebanana_86129name {
     border: 1px solid black;
     background-color: red;
+    padding-left: 2px;
+    padding-right: 2px;
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
@@ -96,9 +104,33 @@ body {
 #timer_boi6736name {
     border: 1px solid black;
     background-color: darksalmon;
+    padding-left: 2px;
+    padding-right: 2px;
     font-size: small;
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
     margin-top: 82%;
+}
+
+.fragdiv {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    background-image: url(_.frag.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#fragname {
+    border: 1px solid black;
+    background-color: cyan;
+    padding-left: 2px;
+    padding-right: 2px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 87%;
 }
